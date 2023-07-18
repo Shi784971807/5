@@ -22,7 +22,7 @@ public class ReadcsvServiceTest_registCsvToMySql
 	private static IDatabaseConnection conn;
 
 	private final static String path = "src\\test\\data\\practice2\\";
-	/* テストデータを登録する */
+	/* テストデータを登録する000000000000000000000000000000000000000000000000000000000000 */
     @BeforeAll
     public static void init() throws Exception {
     	conn = UnitTestBase.connect();
