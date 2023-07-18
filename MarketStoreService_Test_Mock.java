@@ -3,7 +3,7 @@
  *  このクラスはMarketStoreServiceのMockでテストのクラスです。
  *  複数行に渡って記述することが可能です。
  *  @version 1.0
- *  @param string 时彬彬
+ *  @param string huang
  */
 package com.sample.marketstore;
 
