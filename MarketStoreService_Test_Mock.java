@@ -4,7 +4,6 @@
  *  複数行に渡って記述することが可能です。
  *  @version 1.0
  *  @param string huangjiafei
- *	hello!!
  */
 package com.sample.marketstore;
 
