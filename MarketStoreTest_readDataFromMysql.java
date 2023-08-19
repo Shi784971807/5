@@ -27,7 +27,7 @@ import com.cms.service.marketstore.MarketStoreService;
 @RunWith(SpringRunner.class) //用spring提供的环境执行，是属于SpringBootTest  junit的测试
 @SpringBootTest  //这样就知道到底是什么对象
 
-//aaaaaa
+//aaaaaaaaa
 public class MarketStoreTest_readDataFromMysql {
 
 	private static IDatabaseConnection conn;
